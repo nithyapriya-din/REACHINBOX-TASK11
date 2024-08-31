@@ -16,6 +16,40 @@ The application is deployed on netlify and can be accessed [here](https://reachi
 https://www.loom.com/share/b7a87cfad70044399c96468a41cc0016?sid=2501e8d1-5e0e-4a31-b397-126e4bf912d3
 
 
+ # How to Run <br/>
+ 
+   <h2>Installation</h2>
+   
+   Clone the repository:   ``` git clone https://github.com/nithyapriya-din/REACHINBOX-TASK11  ``` <br/>
+   Navigate to the project directory:   ``` cd reachinbox ``` <br/>
+   Install the dependencies:   ``` npm install ``` <br/>
+   Start the development server:   ``` npm run start ``` <br/>
+   Open your browser and visit:   ``` http://localhost:3000 ``` <br/>
+   
+
+   ## Features 
+   
+  - Authentication
+  - Get Emails
+  - Post (send) Email
+  - Delete Email
+
+
+   <h2>Endpoints</h2>
+   <h3>All Emails</h3>
+   <pre><code>GET {{baseurl}}/onebox/list </code></pre>
+
+   <h3>All Emails from Onebox</h3>
+   <pre><code>GET {{baseurl}}/onebox/messages/:thread_id </code></pre>
+
+   <h3>Add Onebox Mail</h3>
+   <pre><code>POST {{baseurl}}/onebox/reply/:thread_id </code></pre>
+
+   <h3>Delete Email</h3>
+   <pre><code>DELETE {{baseurl}}/onebox/messages/:thread_id </code></pre>
+
+
+
 ## Login Page
 
 ![Screenshot (344)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/fb0298f0-1fd2-4464-b5e2-8bde53838a7b)
