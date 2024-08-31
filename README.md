@@ -15,23 +15,23 @@ The application is deployed on netlify and can be accessed [here](https://reachi
 
 ## Login Page
 
-![Screenshot (344)](https://github.com/nithyapriya-din/REACHINBOX-TASK11/assets/128920395/fb0298f0-1fd2-4464-b5e2-8bde53838a7b)
+![Screenshot (344)](https://github.com/nithyapriya-din/ReachInBox-Frontend/assets/128920395/fb0298f0-1fd2-4464-b5e2-8bde53838a7b)
 
 ## Landing Page
 
-![Screenshot (346)](https://github.com/nithyapriya-din/REACHINBOX-TASK11/assets/128920395/09ff52fd-5880-454f-ae7d-7520b31a6ef7)
+![Screenshot (346)](https://github.com/nithyapriya-din/ReachInBox-Frontend/assets/128920395/09ff52fd-5880-454f-ae7d-7520b31a6ef7)
 
 ## Deshboard with Dark Mode
  
-![Screenshot 2024-04-02 213745](https://github.com/nithyapriya-din/REACHINBOX-TASK11/assets/128920395/b507dfc6-bbd4-45ff-b115-296f5e7099d9)
+![Screenshot 2024-04-02 213745](https://github.com/nithyapriya-din/ReachInBox-Frontend/assets/128920395/b507dfc6-bbd4-45ff-b115-296f5e7099d9)
 
 ## Dashboard with Light Mode
 
-![Screenshot (355)](https://github.com/nithyapriya-din/REACHINBOX-TASK11/assets/128920395/8c2f6406-f4a1-408b-a556-255f80a18993)
+![Screenshot (355)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/8c2f6406-f4a1-408b-a556-255f80a18993)
 
 ## Delete Email 
 
-![Screenshot (356)](https://github.com/nithyapriya-din/REACHINBOX-TASK11/assets/128920395/82fb7ea2-2a85-4365-a796-d0d8f89b9e20)
+![Screenshot (356)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/82fb7ea2-2a85-4365-a796-d0d8f89b9e20)
 
 
 
@@ -39,7 +39,7 @@ The application is deployed on netlify and can be accessed [here](https://reachi
  
    <h2>Installation</h2>
    
-   Clone the repository:   ``` git clone https://github.com/nithyapriya-din/REACHINBOX-TASK11
+   Clone the repository:   ``` https://github.com/nithyapriya-din/REACHINBOX-TASK11git clone .git  ``` <br/>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
@@ -66,6 +66,3 @@ The application is deployed on netlify and can be accessed [here](https://reachi
 
    <h3>Delete Email</h3>
    <pre><code>DELETE {{baseurl}}/onebox/messages/:thread_id </code></pre>
-
- 
-  
