@@ -12,6 +12,9 @@ This repository contains the code for Reachinbox frontend  App using React with 
 
 The application is deployed on netlify and can be accessed [here](https://reachinbox-frontend.netlify.app/).
 
+##DEMO VIDEO:
+https://www.loom.com/share/b7a87cfad70044399c96468a41cc0016?sid=2501e8d1-5e0e-4a31-b397-126e4bf912d3
+
 
 ## Login Page
 
